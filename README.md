@@ -1,4 +1,4 @@
-<p align="center"><img src="avatar.png" width="80" alt="栈上观川头像"></p>
+<p align="center"><img src="github-avatar.jpg" width="80" alt="栈上观川头像"></p>
 <h1 align="center">栈上观川</h1>
 <p align="center">把想法写成工具，把实践整理成分享。</p>
 <p align="center"><a href="https://github.com/dpbingnet">GitHub · dpbingnet</a></p>
